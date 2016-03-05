@@ -1,0 +1,15 @@
+package br.com.alura.programa;
+
+import br.com.alura.banco.modelo.Conta;
+
+public class TestaJavaLang {
+
+	public static void main(String[] args) {
+		System.out.println("Olá");
+		
+		String nome = "João";
+		
+		Conta conta = new Conta(500);
+	}
+
+}

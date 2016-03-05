@@ -1,0 +1,5 @@
+package br.com.alura.banco.gerenciadores;
+
+public class GuardadorDeObjetos {
+
+}

@@ -1,0 +1,10 @@
+package br.com.alura.programa;
+
+import java.io.InputStream;
+
+public class TesteIO {
+
+		public static void main(String[] args) {
+			InputStream inputStream = System.in;
+		}
+}

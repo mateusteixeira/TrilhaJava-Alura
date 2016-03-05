@@ -1,0 +1,16 @@
+package br.com.alura.banco.modelo;
+
+import Aula2.Tributavel;
+
+public class ContaCorrente extends Conta implements Tributavel {
+
+	public void atualiza(double taxa){
+		setSaldo(getSaldo() + getSaldo() * taxa * 2);
+	}
+
+	@Override
+	public double calculaTributos() {
+		return getSaldo()*0.01;
+	}
+	
+}

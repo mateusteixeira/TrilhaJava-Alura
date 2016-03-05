@@ -1,0 +1,15 @@
+package br.com.alura.programa;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import br.com.alura.banco.modelo.ContaPoupanca;
+
+public class TestaCollections {
+
+	public static void main(String[] args) {
+		List<ContaPoupanca> contas = new ArrayList<>();
+		ContaPoupanca contaPoupanca = new ContaPoupanca();
+		contas.add(e)
+	}
+}

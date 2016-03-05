@@ -1,0 +1,11 @@
+package br.com.alura.programa;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+
+public class TestaJavaIO {
+	public static void main(String[] args) throws FileNotFoundException {
+		InputStream is = new FileInputStream("leitura.txt");
+	}
+
+}
