@@ -49,16 +49,36 @@ public abstract class Conta {
 	}
 
 	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + numeroConta;
+		result = prime * result + ((titular == null) ? 0 : titular.hashCode());
+		return result;
+	}
+
+	@Override
 	public boolean equals(Object obj) {
-		if(!(obj instanceof Conta)){
+		if (this == obj)
+			return true;
+		if (obj == null)
 			return false;
-		}
-		
-		Conta conta = (Conta)obj;
-		return this.numeroConta == conta.getNumeroConta() && this.getTitular().equals(conta.getTitular());
+		if (getClass() != obj.getClass())
+			return false;
+		Conta other = (Conta) obj;
+		if (numeroConta != other.numeroConta)
+			return false;
+		if (titular == null) {
+			if (other.titular != null)
+				return false;
+		} else if (!titular.equals(other.titular))
+			return false;
+		return true;
 	}
 	
 	
 	
 	public abstract void atualiza(double taxa);
+	
+ 
 }

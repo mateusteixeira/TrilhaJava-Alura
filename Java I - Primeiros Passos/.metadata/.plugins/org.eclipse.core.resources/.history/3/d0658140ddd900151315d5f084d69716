@@ -1,7 +1,0 @@
-//Continuando exercício de arrays da aula 4
-public class Empresa {
-	private String nomeEmpresa;
-	private String cnpj;
-	private int numeroFuncionarios;
-	private Funcionario[] funcionarios;
-}

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Java II - Orientacao a Objetos&apos;" deleteContents="false" description="Delete resource &apos;Java II - Orientacao a Objetos&apos;" element1="/Java II - Orientacao a Objetos" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1461933539568"/>&#x0A;<refactoring comment="Delete resource &apos;Java I - Primeiros Passos&apos;" deleteContents="false" description="Delete resource &apos;Java I - Primeiros Passos&apos;" element1="/Java I - Primeiros Passos" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1461933541396"/>
+</session>

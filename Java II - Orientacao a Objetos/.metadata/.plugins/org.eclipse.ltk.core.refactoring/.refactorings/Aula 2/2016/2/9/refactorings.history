@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;illegalArgumentExceptionruntimeExceptione&apos; in &apos;TestaDeposita.main(...)&apos; to &apos;illegalArgumentException&apos;&#x0D;&#x0A;- Original project: &apos;Aula 2&apos;&#x0D;&#x0A;- Original element: &apos;TestaDeposita.main(String[]).illegalArgumentExceptionruntimeExceptione&apos;&#x0D;&#x0A;- Renamed element: &apos;illegalArgumentExceptionruntimeExceptione&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;illegalArgumentExceptionruntimeExceptione&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{TestaDeposita.java[TestaDeposita~main~\[QString;@illegalArgumentExceptionruntimeExceptione!177!242!202!242!QIllegalArgumentException;!0!false" name="illegalArgumentException" references="true" stamp="1456544262783" version="1.0"/>
-</session>

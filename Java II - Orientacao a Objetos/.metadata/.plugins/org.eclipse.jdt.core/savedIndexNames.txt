@@ -1,1 +1,0 @@
-INDEX VERSION 1.127+D:\Profissional\Curso Alura\Trilha Java\Java II - Orientacao a Objetos\.metadata\.plugins\org.eclipse.jdt.core

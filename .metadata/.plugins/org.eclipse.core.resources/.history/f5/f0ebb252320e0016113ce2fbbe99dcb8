@@ -1,0 +1,16 @@
+package br.com.alura.programa;
+
+import java.util.HashSet;
+
+import br.com.alura.banco.modelo.Conta;
+import br.com.alura.banco.modelo.ContaCorrente;
+
+public class TesteContaHashCode {
+	
+	
+	public static void main(String args[]){
+		HashSet<Conta> contas = new HashSet<Conta>();
+		ContaCorrente conta1 = new ContaCorrente();
+	}
+
+}
