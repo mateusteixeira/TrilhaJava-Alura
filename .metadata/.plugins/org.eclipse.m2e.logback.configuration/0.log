@@ -997,3 +997,253 @@ Caused by: org.apache.http.client.HttpResponseException: Forbidden (403)
 	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$GetTaskRunner.runTask(BasicRepositoryConnector.java:447) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
 	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:350) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
 	... 13 common frames omitted
+2016-05-09 17:46:53,139 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repartefatos.datacoper.com.br:8082/nexus/content/groups/public/org/apache/maven/archetypes/maven-archetype-archetype/1.0/maven-archetype-archetype-1.0.jar
+2016-05-09 17:46:53,238 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repartefatos.datacoper.com.br:8082/nexus/content/groups/public/org/apache/maven/archetypes/maven-archetype-archetype/1.0/maven-archetype-archetype-1.0.jar
+2016-05-09 17:46:53,547 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repartefatos.datacoper.com.br:8082/nexus/content/groups/public/org/apache/maven/archetypes/maven-archetype-archetype/1.0/maven-archetype-archetype-1.0.pom
+2016-05-09 17:46:53,554 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repartefatos.datacoper.com.br:8082/nexus/content/groups/public/org/apache/maven/archetypes/maven-archetype-archetype/1.0/maven-archetype-archetype-1.0.pom
+2016-05-09 17:47:21,002 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\pom.xml
+2016-05-09 17:47:23,382 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-Parent:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\pom.xml.
+2016-05-09 17:47:24,950 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TrilhaJava-Parent/src/main/java
+2016-05-09 17:47:24,953 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TrilhaJava-Parent/src/main/resources
+2016-05-09 17:47:24,955 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TrilhaJava-Parent/src/test/java
+2016-05-09 17:47:25,231 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2016-05-09 17:47:25,810 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 17:47:25,828 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-09 17:47:25,847 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 17:47:25,848 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\src\test\resources
+2016-05-09 17:47:47,537 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-Parent:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\pom.xml.
+2016-05-09 17:47:53,889 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-09 17:47:53,923 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-Parent:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\pom.xml.
+2016-05-09 17:47:54,042 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-05-09 17:51:51,526 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-Parent:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\pom.xml.
+2016-05-09 17:56:04,963 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:JavaI-PrimeirosPassos:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\Java I - Primeiros Passos\pom.xml.
+2016-05-09 17:56:05,409 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Java I - Primeiros Passos/src
+2016-05-09 17:56:05,410 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Java I - Primeiros Passos/src overlaps with sources folder /Java I - Primeiros Passos/src
+2016-05-09 17:56:05,415 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Java I - Primeiros Passos/src/test/java because it overlaps with /Java I - Primeiros Passos/src
+2016-05-09 17:56:05,500 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-09 17:56:06,131 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:JavaI-PrimeirosPassos:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\Java I - Primeiros Passos\pom.xml.
+2016-05-09 17:56:06,416 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Java I - Primeiros Passos/src
+2016-05-09 17:56:06,416 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Java I - Primeiros Passos/src overlaps with sources folder /Java I - Primeiros Passos/src
+2016-05-09 17:56:06,420 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Java I - Primeiros Passos/src/test/java because it overlaps with /Java I - Primeiros Passos/src
+2016-05-09 17:56:06,491 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-05-09 17:56:07,120 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:56:07,122 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-09 17:56:07,141 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:56:07,142 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\Java I - Primeiros Passos\src\test\resources
+2016-05-09 17:56:21,052 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.alura.trilhajava:JavaI-PrimeirosPassos:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\Java I - Primeiros Passos\pom.xml.
+2016-05-09 17:58:00,730 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\pom.xml
+2016-05-09 17:58:01,265 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaI:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\pom.xml.
+2016-05-09 17:58:02,043 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TrilhaJava-JavaI/src/main/java
+2016-05-09 17:58:02,051 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TrilhaJava-JavaI/src/test/java
+2016-05-09 17:58:02,103 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2016-05-09 17:58:02,869 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:58:02,870 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\main\resources
+2016-05-09 17:58:02,872 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:58:02,872 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\test\resources
+2016-05-09 17:58:03,105 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-Parent:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\pom.xml.
+2016-05-09 17:58:04,041 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaI:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\pom.xml.
+2016-05-09 17:58:06,095 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:58:06,095 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\main\resources
+2016-05-09 17:58:06,100 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:58:06,100 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\test\resources
+2016-05-09 17:58:37,142 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\pom.xml
+2016-05-09 17:58:37,259 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaII:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\pom.xml.
+2016-05-09 17:58:37,755 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TrilhaJava-JavaII/src/main/java
+2016-05-09 17:58:37,767 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TrilhaJava-JavaII/src/test/java
+2016-05-09 17:58:37,829 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-05-09 17:58:38,276 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:58:38,277 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\main\resources
+2016-05-09 17:58:38,278 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:58:38,279 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\test\resources
+2016-05-09 17:58:38,420 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-Parent:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\pom.xml.
+2016-05-09 17:58:38,956 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaI:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\pom.xml.
+2016-05-09 17:58:38,997 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaII:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\pom.xml.
+2016-05-09 17:58:40,642 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:58:40,642 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\main\resources
+2016-05-09 17:58:40,646 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:58:40,649 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\test\resources
+2016-05-09 17:58:40,678 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:58:40,679 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\main\resources
+2016-05-09 17:58:40,687 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:58:40,688 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\test\resources
+2016-05-09 17:59:08,104 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\pom.xml
+2016-05-09 17:59:08,213 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaIII:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\pom.xml.
+2016-05-09 17:59:08,756 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TrilhaJava-JavaIII/src/main/java
+2016-05-09 17:59:08,760 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TrilhaJava-JavaIII/src/test/java
+2016-05-09 17:59:08,798 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-05-09 17:59:09,021 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:59:09,021 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\main\resources
+2016-05-09 17:59:09,023 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:59:09,024 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\test\resources
+2016-05-09 17:59:10,202 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-Parent:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\pom.xml.
+2016-05-09 17:59:10,813 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaII:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\pom.xml.
+2016-05-09 17:59:10,885 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaI:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\pom.xml.
+2016-05-09 17:59:10,941 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaIII:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\pom.xml.
+2016-05-09 17:59:12,737 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:59:12,737 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\main\resources
+2016-05-09 17:59:12,741 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:59:12,742 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\test\resources
+2016-05-09 17:59:12,776 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:59:12,776 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\main\resources
+2016-05-09 17:59:12,778 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:59:12,778 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\test\resources
+2016-05-09 17:59:12,802 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:59:12,804 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\main\resources
+2016-05-09 17:59:12,806 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:59:12,806 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\test\resources
+2016-05-09 17:59:22,126 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaI:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\pom.xml.
+2016-05-09 17:59:22,204 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:59:22,208 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\main\resources
+2016-05-09 17:59:22,210 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:59:22,210 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\test\resources
+2016-05-09 17:59:33,066 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaII:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\pom.xml.
+2016-05-09 17:59:33,125 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:59:33,125 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\main\resources
+2016-05-09 17:59:33,126 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:59:33,127 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\test\resources
+2016-05-09 17:59:42,017 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaIII:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\pom.xml.
+2016-05-09 17:59:42,061 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:59:42,061 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\main\resources
+2016-05-09 17:59:42,062 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:59:42,062 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\test\resources
+2016-05-09 17:59:44,332 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaIII:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\pom.xml.
+2016-05-09 17:59:44,372 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:59:44,372 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\main\resources
+2016-05-09 17:59:44,374 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 17:59:44,374 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\test\resources
+2016-05-09 18:01:11,812 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:11,813 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\main\resources
+2016-05-09 18:01:11,816 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:11,816 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\test\resources
+2016-05-09 18:01:12,006 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:12,007 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\main\resources
+2016-05-09 18:01:12,008 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:12,008 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\test\resources
+2016-05-09 18:01:12,310 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:12,310 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\main\resources
+2016-05-09 18:01:12,311 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:12,311 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\test\resources
+2016-05-09 18:01:23,048 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:23,049 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\main\resources
+2016-05-09 18:01:23,050 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:23,050 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\test\resources
+2016-05-09 18:01:26,364 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:26,365 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\main\resources
+2016-05-09 18:01:26,366 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:26,366 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\test\resources
+2016-05-09 18:01:37,401 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:37,401 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\main\resources
+2016-05-09 18:01:37,402 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:37,402 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\test\resources
+2016-05-09 18:01:42,289 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:42,289 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\main\resources
+2016-05-09 18:01:42,290 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:42,290 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\test\resources
+2016-05-09 18:01:49,494 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:49,494 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\main\resources
+2016-05-09 18:01:49,495 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:49,495 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\test\resources
+2016-05-09 18:01:52,624 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:52,624 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\main\resources
+2016-05-09 18:01:52,627 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:52,627 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\test\resources
+2016-05-09 18:01:54,869 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:54,870 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\main\resources
+2016-05-09 18:01:54,871 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:01:54,871 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\test\resources
+2016-05-09 18:02:03,966 [Worker-36] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not transfer artifact org.eclipse.recommenders:index:zip:0.0.0-20150617.073902-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Could not transfer artifact org.eclipse.recommenders:index:zip:0.0.0-20150617.073902-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:43) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+Caused by: org.apache.http.client.HttpResponseException: Forbidden (403)
+	at org.eclipse.aether.transport.http.HttpTransporter.handleStatus(HttpTransporter.java:466) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.transport.http.HttpTransporter.execute(HttpTransporter.java:291) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.transport.http.HttpTransporter.implGet(HttpTransporter.java:243) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.spi.connector.transport.AbstractTransporter.get(AbstractTransporter.java:59) ~[org.eclipse.aether.spi_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$GetTaskRunner.runTask(BasicRepositoryConnector.java:447) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:350) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	... 13 common frames omitted
+2016-05-09 18:02:04,377 [Worker-38] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:ctor:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not transfer artifact jre:jre:zip:ctor:1.0.0-20150616.145022-6 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Could not transfer artifact jre:jre:zip:ctor:1.0.0-20150616.145022-6 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:43) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+Caused by: org.apache.http.client.HttpResponseException: Forbidden (403)
+	at org.eclipse.aether.transport.http.HttpTransporter.handleStatus(HttpTransporter.java:466) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.transport.http.HttpTransporter.execute(HttpTransporter.java:291) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.transport.http.HttpTransporter.implGet(HttpTransporter.java:243) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.spi.connector.transport.AbstractTransporter.get(AbstractTransporter.java:59) ~[org.eclipse.aether.spi_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$GetTaskRunner.runTask(BasicRepositoryConnector.java:447) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:350) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	... 13 common frames omitted
+2016-05-09 18:02:13,794 [Worker-40] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:ctor:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:ctor:1.0.0-20150616.145022-6 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:ctor:1.0.0-20150616.145022-6 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:ctor:1.0.0-20150616.145022-6 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:ctor:1.0.0-20150616.145022-6 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-09 18:02:16,247 [Worker-40] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:ctor:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:ctor:1.0.0-20150616.145022-6 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:ctor:1.0.0-20150616.145022-6 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:ctor:1.0.0-20150616.145022-6 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:ctor:1.0.0-20150616.145022-6 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-09 18:02:17,582 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:02:17,583 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\main\resources
+2016-05-09 18:02:17,584 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 18:02:17,584 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\test\resources
