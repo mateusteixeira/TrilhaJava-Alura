@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
-<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1456795847717_0" label="Window Working Set" name="Aggregate for window 1456795847717"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1462845699839_1" label="TrilhaJava-Parent" name="TrilhaJava-Parent">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TrilhaJava-Parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TrilhaJava-JavaI" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TrilhaJava-JavaII" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TrilhaJava-JavaIII" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1462845673447_0" label="Window Working Set" name="Aggregate for window 1462845673447"/>
 </workingSetManager>
