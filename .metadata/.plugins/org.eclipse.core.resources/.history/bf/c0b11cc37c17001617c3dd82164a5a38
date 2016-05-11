@@ -1,0 +1,14 @@
+package br.com.alura.acoplamento;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class GeradorNotaFiscal {
+	
+	private List<AcaoPosGerarNota> acoesPosGerarNota = new ArrayList<AcaoPosGerarNota>();
+	
+	public GeradorNotaFiscal(List<AcaoPosGerarNota> acaoPosGerarNotas) {
+		this.acoesPosGerarNota = acaoPosGerarNotas;
+	}
+
+}

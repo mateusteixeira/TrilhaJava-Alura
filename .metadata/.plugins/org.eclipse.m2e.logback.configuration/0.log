@@ -488,3 +488,551 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was
 2016-05-09 23:58:40,399 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Profissional\Curso Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
 2016-05-09 23:58:40,399 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-05-09 23:58:40,399 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Profissional\Curso Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-10 08:51:57,643 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-Parent:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\pom.xml.
+2016-05-10 08:51:58,076 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-Parent:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\pom.xml.
+2016-05-10 08:55:02,270 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaI:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\pom.xml.
+2016-05-10 08:55:02,338 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaII:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\pom.xml.
+2016-05-10 08:55:02,983 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaIII:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\pom.xml.
+2016-05-10 08:55:03,039 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-Solid:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\pom.xml.
+2016-05-10 08:55:04,797 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TrilhaJava-JavaI/src/main/java
+2016-05-10 08:55:04,798 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TrilhaJava-JavaI/src/test/java
+2016-05-10 08:55:04,988 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TrilhaJava-JavaIII/src/main/java
+2016-05-10 08:55:04,990 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TrilhaJava-JavaIII/src/test/java
+2016-05-10 08:55:05,041 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TrilhaJava-Solid/src/main/java
+2016-05-10 08:55:05,042 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TrilhaJava-Solid/src/test/java
+2016-05-10 08:55:05,087 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TrilhaJava-JavaII/src/main/java
+2016-05-10 08:55:05,089 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TrilhaJava-JavaII/src/test/java
+2016-05-10 08:55:05,123 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 4 project(s) in 4 sec
+2016-05-10 08:55:06,648 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-10 08:55:06,649 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\main\resources
+2016-05-10 08:55:06,652 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-10 08:55:06,652 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\test\resources
+2016-05-10 08:55:06,957 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-10 08:55:06,957 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\main\resources
+2016-05-10 08:55:06,959 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-10 08:55:06,959 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaII\src\test\resources
+2016-05-10 08:55:07,394 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-10 08:55:07,395 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\main\resources
+2016-05-10 08:55:07,396 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-10 08:55:07,397 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaIII\src\test\resources
+2016-05-10 08:55:07,884 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-10 08:55:07,885 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-10 08:55:07,887 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-10 08:55:07,887 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 08:57:28,635 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 08:57:28,665 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\main\resources
+2016-05-11 08:57:28,668 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 08:57:28,669 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\test\resources
+2016-05-11 09:08:28,024 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaI:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\pom.xml.
+2016-05-11 09:08:28,420 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for br.com.alura.trilhajava:TrilhaJava-JavaI:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2016-05-11 09:08:28,637 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-Solid:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\pom.xml.
+2016-05-11 09:08:31,253 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 09:08:31,254 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\main\resources
+2016-05-11 09:08:31,260 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 09:08:31,261 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\test\resources
+2016-05-11 09:08:32,459 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for br.com.alura.trilhajava:TrilhaJava-Solid:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2016-05-11 09:08:32,470 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 09:08:32,470 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 09:08:32,472 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 09:08:32,472 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 09:08:35,485 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for br.com.alura.trilhajava:TrilhaJava-JavaI:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2016-05-11 09:08:35,498 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 09:08:35,498 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\main\resources
+2016-05-11 09:08:35,500 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 09:08:35,501 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\test\resources
+2016-05-11 09:08:48,886 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-JavaI:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\pom.xml.
+2016-05-11 09:08:49,519 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.trilhajava:TrilhaJava-Solid:0.0.1-SNAPSHOT @ C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\pom.xml.
+2016-05-11 09:08:49,600 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 09:08:49,600 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\main\resources
+2016-05-11 09:08:49,601 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 09:08:49,602 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\test\resources
+2016-05-11 09:08:49,643 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 09:08:49,643 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 09:08:49,645 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 09:08:49,645 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 09:09:20,890 [Worker-1] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not transfer artifact org.eclipse.recommenders:index:zip:0.0.0-20150617.073902-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Could not transfer artifact org.eclipse.recommenders:index:zip:0.0.0-20150617.073902-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:43) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+Caused by: org.apache.http.client.HttpResponseException: Forbidden (403)
+	at org.eclipse.aether.transport.http.HttpTransporter.handleStatus(HttpTransporter.java:466) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.transport.http.HttpTransporter.execute(HttpTransporter.java:291) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.transport.http.HttpTransporter.implGet(HttpTransporter.java:243) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.spi.connector.transport.AbstractTransporter.get(AbstractTransporter.java:59) ~[org.eclipse.aether.spi_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$GetTaskRunner.runTask(BasicRepositoryConnector.java:447) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:350) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	... 13 common frames omitted
+2016-05-11 09:10:03,993 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 09:10:03,994 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\main\resources
+2016-05-11 09:10:03,996 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 09:10:03,997 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-JavaI\src\test\resources
+2016-05-11 09:10:04,789 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 09:10:04,791 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 09:10:04,793 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 09:10:04,794 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:20:44,287 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:20:44,287 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:20:44,287 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:20:44,287 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:20:55,329 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:20:55,329 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:20:55,329 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:20:55,329 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:21:12,162 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:21:12,162 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:21:12,162 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:21:12,162 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:21:41,449 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:21:41,449 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:21:41,449 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:21:41,449 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:22:08,874 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:22:08,874 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:22:08,905 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:22:08,905 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:22:11,838 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:22:11,838 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:22:11,838 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:22:11,838 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:22:49,476 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:22:49,476 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:22:49,476 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:22:49,476 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:22:57,584 [Worker-37] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:call:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:43) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+Caused by: org.apache.http.client.HttpResponseException: Forbidden (403)
+	at org.eclipse.aether.transport.http.HttpTransporter.handleStatus(HttpTransporter.java:466) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.transport.http.HttpTransporter.execute(HttpTransporter.java:291) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.transport.http.HttpTransporter.implGet(HttpTransporter.java:243) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.spi.connector.transport.AbstractTransporter.get(AbstractTransporter.java:59) ~[org.eclipse.aether.spi_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$GetTaskRunner.runTask(BasicRepositoryConnector.java:447) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:350) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	... 13 common frames omitted
+2016-05-11 10:23:12,467 [Worker-28] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:call:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-11 10:23:18,334 [Worker-37] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:call:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-11 10:23:30,471 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:23:30,471 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:23:30,471 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:23:30,471 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:26:34,235 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:26:34,235 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:26:34,235 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:26:34,235 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:26:41,006 [Worker-34] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:call:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-11 10:27:03,073 [Worker-34] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:call:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-11 10:27:06,125 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:27:06,125 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:27:06,125 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:27:06,125 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:28:07,000 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:28:07,000 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:28:07,000 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:28:07,000 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:28:39,300 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:28:39,300 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:28:39,300 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:28:39,300 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:28:45,061 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:28:45,061 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:28:45,061 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:28:45,061 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:28:47,432 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:28:47,432 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:28:47,432 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:28:47,432 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:29:14,357 [Worker-39] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:ctor:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not transfer artifact jre:jre:zip:ctor:1.0.0-20150616.145022-6 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Could not transfer artifact jre:jre:zip:ctor:1.0.0-20150616.145022-6 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:43) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+Caused by: org.apache.http.client.HttpResponseException: Forbidden (403)
+	at org.eclipse.aether.transport.http.HttpTransporter.handleStatus(HttpTransporter.java:466) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.transport.http.HttpTransporter.execute(HttpTransporter.java:291) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.transport.http.HttpTransporter.implGet(HttpTransporter.java:243) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.spi.connector.transport.AbstractTransporter.get(AbstractTransporter.java:59) ~[org.eclipse.aether.spi_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$GetTaskRunner.runTask(BasicRepositoryConnector.java:447) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:350) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	... 13 common frames omitted
+2016-05-11 10:29:31,236 [Worker-40] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:ctor:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:ctor:1.0.0-20150616.145022-6 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:ctor:1.0.0-20150616.145022-6 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:ctor:1.0.0-20150616.145022-6 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:ctor:1.0.0-20150616.145022-6 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-11 10:29:35,644 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:29:35,644 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:29:35,644 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:29:35,644 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:30:06,025 [Worker-28] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:call:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-11 10:30:08,239 [Worker-39] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:call:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-11 10:30:09,643 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:30:09,643 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:30:09,643 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:30:09,643 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:30:45,518 [Worker-40] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:call:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-11 10:31:09,985 [Worker-36] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:call:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-11 10:31:32,448 [Worker-39] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:call:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-11 10:31:53,166 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:31:53,167 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:31:53,168 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:31:53,168 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:31:55,396 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:31:55,396 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:31:55,396 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:31:55,396 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:32:06,932 [Worker-39] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:call:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-11 10:32:09,961 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:32:09,961 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:32:09,961 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:32:09,961 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:32:15,851 [Worker-34] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:call:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-11 10:32:17,302 [Worker-43] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:call:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-11 10:32:23,986 [Worker-39] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:call:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-11 10:33:30,296 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:33:30,296 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:33:30,312 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:33:30,312 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:33:34,092 [Worker-31] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:call:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-11 10:33:39,079 [Worker-41] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:call:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-11 10:33:45,020 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:33:45,020 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:33:45,020 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:33:45,020 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources
+2016-05-11 10:34:40,831 [Worker-39] WARN  o.e.r.models.ModelRepository - Failed to download jre:jre:call:zip:1.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:167) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.2.4.v20150914-0857.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to transfer jre:jre:zip:call:1.0.0-20150615.175205-1 from http://download.eclipse.org/recommenders/models/mars/ was cached in the local repository, resolution will not be reattempted until the update interval of models has elapsed or updates are forced. Original error: Could not transfer artifact jre:jre:zip:call:1.0.0-20150615.175205-1 from/to models (http://download.eclipse.org/recommenders/models/mars/): Forbidden (403)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:238) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:206) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:585) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2016-05-11 10:34:44,076 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:34:44,076 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\main\resources
+2016-05-11 10:34:44,076 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 10:34:44,076 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosPessoal\TrilhasJava\TrilhaJava-Alura\TrilhaJava-Alura\TrilhaJava-Parent\TrilhaJava-Solid\src\test\resources

@@ -25,7 +25,7 @@ public class Funcionario {
 	public void mostra(){
 		System.out.println("Nome: "+getNomeFuncionario());
 		System.out.println("Departamento Alocado: "+getDepartamentoAlocado());
-		System.out.println("Salário: "+getSalario());
+		System.out.println("Salï¿½rio: "+getSalario());
 		System.out.println("Rg: "+getRg());
 		dataCadastro.getDataFormatada();
 	}
