@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring accessors="true" comment="Delete element from project &apos;TrilhaJava-Solid&apos;&#x0D;&#x0A;- Original project: &apos;TrilhaJava-Solid&apos;&#x0D;&#x0A;- Original element: &apos;TrilhaJava-Solid/src/main/java/org.TrilhaJava.Solid&apos;" description="Delete element" element1="/src\/main\/java&lt;org.TrilhaJava.Solid" element2="/src\/main\/java&lt;org.TrilhaJava" element3="/src\/main\/java&lt;org" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1462847858301" subPackages="false" version="1.0"/>
-</session>

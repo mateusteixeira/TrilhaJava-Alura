@@ -1,7 +1,0 @@
-package br.com.alura.regrasalario;
-
-public interface RegraSalario {
-	
-	public double calculaSalarioPorRegra(Funcionario);
-
-}

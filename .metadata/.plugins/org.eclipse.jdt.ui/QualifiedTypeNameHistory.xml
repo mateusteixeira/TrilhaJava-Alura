@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.math.BigDecimal"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="br.com.alura.acoplamento.AcaoPosGerarNota"/>
-<fullyQualifiedTypeName name="br.com.alura.acoplamento.Faturamento"/>
-<fullyQualifiedTypeName name="br.com.alura.acoplamento.NotaFiscal"/>
-</qualifiedTypeNameHistroy>
