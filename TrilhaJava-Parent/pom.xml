@@ -10,5 +10,6 @@
     <module>TrilhaJava-JavaII</module>
     <module>TrilhaJava-JavaIII</module>
     <module>TrilhaJava-Solid</module>
+    <module>TrilhaJava-OO</module>
   </modules>
 </project>
