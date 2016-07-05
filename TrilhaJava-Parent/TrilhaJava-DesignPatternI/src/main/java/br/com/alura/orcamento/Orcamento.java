@@ -7,6 +7,7 @@ public class Orcamento {
 
 	private double valor;
 	private List<ItemOrcamento> itensOrcamento;
+	private EstadoDeUmOrcamento estadoAtual;
 
 	public Orcamento(double valor) {
 		this.valor = valor;
@@ -20,17 +21,37 @@ public class Orcamento {
 	public void setValor(double valor) {
 		this.valor = valor;
 	}
-	
-	public void addItensAoOrcamento(ItemOrcamento itemOrcamento){
+
+	public void addItensAoOrcamento(ItemOrcamento itemOrcamento) {
 		itensOrcamento.add(itemOrcamento);
 	}
-	
+
 	public List<ItemOrcamento> getItensOrcamento() {
 		return itensOrcamento;
 	}
-	
-	public int getQtdItens(){
+
+	public int getQtdItens() {
 		return itensOrcamento.size();
+	}
+
+	public void aprova() {
+		estadoAtual.aprova(this);
+	}
+
+	public void reprova() {
+		estadoAtual.reprova(this);
+	}
+
+	public void finaliza() {
+		estadoAtual.finaliza(this);
+	}
+
+	public EstadoDeUmOrcamento getEstadoAtual() {
+		return estadoAtual;
+	}
+
+	public void setEstadoAtual(EstadoDeUmOrcamento estadoAtual) {
+		this.estadoAtual = estadoAtual;
 	}
 
 }

@@ -2,8 +2,15 @@ package br.com.alura.impostos;
 
 import br.com.alura.orcamento.Orcamento;
 
-public abstract class TemplateTaxacaoImposto implements Imposto {
+public abstract class TemplateTaxacaoImposto extends Imposto {
 
+	 public TemplateTaxacaoImposto(Imposto outroImposto) {
+         super(outroImposto);
+     }
+
+     public TemplateTaxacaoImposto() {
+     }
+	
 	public final double calculaImposto(Orcamento orcamento) {
 		if (deveUsarMaximaTaxacao(orcamento)) {
 			return maximaTaxacao(orcamento);

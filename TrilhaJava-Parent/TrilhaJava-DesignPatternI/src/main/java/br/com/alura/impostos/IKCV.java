@@ -7,6 +7,13 @@ import br.com.alura.orcamento.Orcamento;
 
 public class IKCV extends TemplateTaxacaoImposto {
 
+	public IKCV() {
+	}
+
+	public IKCV(Imposto outroImposto) {
+		super(outroImposto);
+	}
+
 	@Override
 	public boolean deveUsarMaximaTaxacao(Orcamento orcamento) {
 		return orcamento.getValor() > 500 && temItemComValorSuperiorACem(orcamento.getItensOrcamento());
@@ -14,7 +21,7 @@ public class IKCV extends TemplateTaxacaoImposto {
 
 	private boolean temItemComValorSuperiorACem(List<ItemOrcamento> itensOrcamento) {
 		for (ItemOrcamento itemOrcamento : itensOrcamento) {
-			if(itemOrcamento.getValor() > 100){
+			if (itemOrcamento.getValor() > 100) {
 				return true;
 			}
 		}

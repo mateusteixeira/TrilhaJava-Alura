@@ -6,4 +6,11 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>TrilhaJava-DesignPatternI</artifactId>
+  <dependencies>
+  	<dependency>
+  		<groupId>br.com.alura.trilhajava</groupId>
+  		<artifactId>TrilhaJava-JavaII</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>

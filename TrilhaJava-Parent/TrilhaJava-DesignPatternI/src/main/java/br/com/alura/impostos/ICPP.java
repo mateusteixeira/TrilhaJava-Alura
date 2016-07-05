@@ -4,6 +4,13 @@ import br.com.alura.orcamento.Orcamento;
 
 public class ICPP extends TemplateTaxacaoImposto {
 
+	public ICPP() {
+	}
+
+	public ICPP(Imposto outroImposto) {
+		super(outroImposto);
+	}
+
 	@Override
 	public boolean deveUsarMaximaTaxacao(Orcamento orcamento) {
 		return orcamento.getValor() < 500;
@@ -18,5 +25,5 @@ public class ICPP extends TemplateTaxacaoImposto {
 	public double minimaTaxacao(Orcamento orcamento) {
 		return orcamento.getValor() * 0.05;
 	}
-	
+
 }

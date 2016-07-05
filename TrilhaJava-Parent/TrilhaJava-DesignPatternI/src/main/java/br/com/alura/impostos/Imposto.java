@@ -2,8 +2,22 @@ package br.com.alura.impostos;
 
 import br.com.alura.orcamento.Orcamento;
 
-public interface Imposto {
+public abstract class Imposto {
 
-	public double calculaImposto(Orcamento orcamento);
-	
+	private final Imposto outroImposto;
+
+	public Imposto(Imposto outroImposto) {
+		this.outroImposto = outroImposto;
+	}
+
+	public Imposto() {
+		outroImposto = null;
+	}
+
+	protected double calculaOutroImposto(Orcamento orcamento) {
+		return (outroImposto == null ? 0 : outroImposto.calculaImposto(orcamento));
+	}
+
+	public abstract double calculaImposto(Orcamento orcamento);
+
 }

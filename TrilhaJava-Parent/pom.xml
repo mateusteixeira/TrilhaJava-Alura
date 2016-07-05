@@ -12,5 +12,6 @@
     <module>TrilhaJava-Solid</module>
     <module>TrilhaJava-OO</module>
     <module>TrilhaJava-DesignPatternI</module>
+    <module>LojaVirtual</module>
   </modules>
 </project>

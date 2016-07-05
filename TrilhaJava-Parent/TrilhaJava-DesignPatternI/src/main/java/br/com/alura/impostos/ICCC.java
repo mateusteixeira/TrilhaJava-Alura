@@ -2,7 +2,7 @@ package br.com.alura.impostos;
 
 import br.com.alura.orcamento.Orcamento;
 
-public class ICCC implements Imposto {
+public class ICCC extends Imposto {
 
 	public double calculaImposto(Orcamento orcamento) {
 		double valor = orcamento.getValor();
